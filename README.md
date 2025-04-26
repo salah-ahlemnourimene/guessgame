@@ -20,7 +20,7 @@ A simple web game where you guess a number between 0 and 10!
 
 
 ## Live Demo
-[Play the game here!](http://127.0.0.1:5500/guessgame/)
+https://salah-ahlemnourimene.github.io/guessgame/
 
 ## Author
 - salah-ahlemnourimene
